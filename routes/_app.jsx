@@ -4,7 +4,7 @@ export default function App({ Component }) {
   return (
     <>
       <Head>
-        <link rel="icon" type="image/png" href="/favicon.png" />
+        {/* Enter your top level head items */}
       </Head>
       <Component />
     </>
