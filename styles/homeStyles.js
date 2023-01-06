@@ -11,5 +11,7 @@ export const homeStyles = css`
     align-items: center;
     justify-content: center;
     min-height: 80vh;
+    gap: 1rem;
+    text-align: center;
   }
 `
